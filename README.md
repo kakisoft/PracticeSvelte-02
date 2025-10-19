@@ -1,3 +1,14 @@
+## Note
+```
+https://chatgpt.com/g/g-p-68edb47a9744819194ac3997b47a6087-hurontoento/c/68f476c7-3634-8320-b0b4-08a90e565841
+```
+
+## ref
+https://svelte.dev/docs/kit/creating-a-project
+https://svelte.dev/docs/cli/sv-create
+https://svelte.jp/docs/cli/sv-create
+
+
 ## create project
 ```
 npx sv create .
