@@ -20,4 +20,5 @@ import adapter from '@sveltejs/adapter-node';
 ## 起動
 ```
 npm run dev -- --host
+npm run dev -- --host --port 6001
 ```
