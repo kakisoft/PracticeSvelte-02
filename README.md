@@ -4,9 +4,20 @@ https://chatgpt.com/g/g-p-68edb47a9744819194ac3997b47a6087-hurontoento/c/68f476c
 ```
 
 ## ref
+
+### プロジェクト作成・インストールガイド
 https://svelte.dev/docs/kit/creating-a-project
 https://svelte.dev/docs/cli/sv-create
 https://svelte.jp/docs/cli/sv-create
+
+### 文法
+https://svelte.dev/docs/kit/introduction
+
+Svelteの文法チュートリアル
+https://svelte.dev/tutorial/basics
+
+ルーティングの仕組み（+page.svelteの意味）
+https://svelte.dev/docs/kit/routing
 
 
 ## create project
